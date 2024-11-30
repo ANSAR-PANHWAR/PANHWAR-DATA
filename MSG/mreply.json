@@ -28,9 +28,9 @@
 
   "inb_cmd": "This is inbox command ❗",
 
-  "give_adm": "*Mujha Group Admin Bnaya Yah cmd use krna k lya!!*",
+  "give_adm": "*Make Me Admin To Use Command!*",
 
-  "you_adm": "Admin Hona Chya Apko cmd Use krna k lya!!",
+  "you_adm": "You Need To Be Admin To Use Command!*",
 
   "need_jid": "Please give me jid ❓",
 
