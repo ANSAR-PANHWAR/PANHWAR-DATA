@@ -1,7 +1,7 @@
 {
 
 "BOT_NAME": "KHANX-AI",
-"VERSION": "1.0.0",
+"VERSION": "2.0.0",
 "CREATED BY": "JawadYTX",
   
 "replyMsg": {
@@ -28,9 +28,9 @@
 
   "inb_cmd": "This is inbox command ❗",
 
-  "give_adm": "*Make Me Admin To Use Command!*",
+  "give_adm": "> *Make Me Admin To Use Command 💀*",
 
-  "you_adm": "You Need To Be Admin To Use Command!*",
+  "you_adm": "> *You Need To Be Admin To Use Command 🗿*",
 
   "need_jid": "Please give me jid ❓",
 
